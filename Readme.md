@@ -30,4 +30,4 @@ This Power BI dashboard analyzes brand performance, revenue, profit, units sold,
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Dashboard_Preview.png)
